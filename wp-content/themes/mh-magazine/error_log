@@ -1,0 +1,2 @@
+[06-Jul-2016 04:22:13 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/tutucom/public_html/wp-content/themes/mh-magazine/404.php on line 1
+[07-Jul-2016 19:52:20 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/tutucom/public_html/wp-content/themes/mh-magazine/functions.php on line 5

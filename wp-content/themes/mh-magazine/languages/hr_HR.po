@@ -1,0 +1,2039 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Magazine v3.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-14 12:05+0100\n"
+"PO-Revision-Date: 2016-04-08 11:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: hr_HR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ mh-magazine
+#: 404.php:9 content-none.php:9
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nažalost, ne pronalazimo ono što tražite, pokušajte sa unosom drugog pojma."
+
+# @ mh-magazine
+#: 404.php:13 content-none.php:14 includes/mh-breadcrumb.php:61
+#: includes/mh-customizer.php:81 includes/mh-customizer.php:83
+#: includes/mh-customizer.php:152
+msgid "Search"
+msgstr ""
+
+# @ mh-magazine
+#: 404.php:20 content-none.php:21
+msgid "Popular Articles"
+msgstr ""
+
+# @ mh-magazine
+#: 404.php:25 content-none.php:26
+msgid "Random Articles"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:122
+msgid "Post Options"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:132
+msgid "Subheading (will be displayed below post title)"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:137
+msgid "Alternative ad code (this will overwrite the global content ad code)"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:144
+msgid "Disable Content Ad for this Post"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:148
+msgid "Disable Featured Image for this Post"
+msgstr ""
+
+# @ mh-magazine
+#: comments.php:11
+#, php-format
+msgid "1 Comment on %2$s"
+msgid_plural "%1$s Comments on %2$s"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ mh-magazine
+#: comments.php:20 includes/mh-custom-functions.php:288
+#: includes/mh-custom-functions.php:528
+msgid "&laquo;"
+msgstr ""
+
+# @ mh-magazine
+#: comments.php:20 includes/mh-custom-functions.php:288
+#: includes/mh-custom-functions.php:529
+msgid "&raquo;"
+msgstr ""
+
+# @ mh-magazine
+#: comments.php:27
+#, php-format
+msgid "%s Trackbacks & Pingbacks"
+msgstr ""
+
+# @ mh-magazine
+#: comments.php:39
+msgid "Comments are closed."
+msgstr "Komentari su zatvoreni"
+
+# @ mh-magazine
+#: comments.php:50
+msgid "Your email address will not be published."
+msgstr "Vaša e-mail adresa neće biti objavljena"
+
+# @ mh-magazine
+#: comments.php:52
+msgid "Comment"
+msgstr "Komentar"
+
+# @ mh-magazine
+#: content-none.php:5
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Nema rezultata. Pokušajte sa drugim riječima. "
+
+# @ mh-magazine
+#: functions.php:78
+msgid "Header Navigation"
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:80
+msgid "Main Navigation"
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:81
+msgid "Additional Navigation (below Main Navigation)"
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:82
+msgid "Footer Navigation"
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:154
+msgctxt "widget area name"
+msgid "Sidebar"
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:156
+#, php-format
+msgctxt "widget area name"
+msgid "Sidebar %d"
+msgstr ""
+
+# @ mh-magazine
+#: woocommerce/mh-custom-woocommerce.php:10
+msgid "WooCommerce"
+msgstr ""
+
+# @ mh-magazine
+#: woocommerce/mh-custom-woocommerce.php:10
+msgid "Widget area (sidebar) on WooCommerce pages"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-breadcrumb.php:15
+msgid "Home"
+msgstr "Naslovna"
+
+# @ mh-magazine
+#: includes/mh-breadcrumb.php:27
+msgid "Media"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-breadcrumb.php:57 includes/widgets/mh-authors.php:99
+msgid "Authors"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-breadcrumb.php:59 includes/mh-custom-functions.php:182
+msgid "Page not found (404)"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-breadcrumb.php:71 includes/mh-breadcrumb.php:74
+msgid "Yearly Archives"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-breadcrumb.php:72
+msgid "Monthly Archives"
+msgstr ""
+
+# @ mh-magazine
+#: content-author-box.php:22
+#, php-format
+msgid "About %s"
+msgstr ""
+
+# @ mh-magazine
+#: content-author-box.php:26
+#, php-format
+msgid "More articles written by %s"
+msgstr ""
+
+# @ mh-magazine
+#: content-author-box.php:38
+msgid "The author has not yet added any personal or biographical info to his author profile."
+msgstr ""
+
+# @ mh-magazine
+#: content-author-box.php:46
+msgid "Contact:"
+msgstr ""
+
+# @ mh-magazine
+#: content-author-box.php:49
+#, php-format
+msgid "Visit the website of %s"
+msgstr ""
+
+# @ mh-magazine
+#: content-author-box.php:51 includes/mh-custom-functions.php:502
+msgid "Website"
+msgstr ""
+
+# @ mh-magazine
+#: content-author-box.php:55
+#, php-format
+msgid "Follow %s on Facebook"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:33 content-author-box.php:57
+msgid "Facebook"
+msgstr ""
+
+# @ mh-magazine
+#: content-author-box.php:61
+#, php-format
+msgid "Follow %s on Twitter"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:36 content-author-box.php:63
+msgid "Twitter"
+msgstr ""
+
+# @ mh-magazine
+#: content-author-box.php:67
+#, php-format
+msgid "Follow %s on Google+"
+msgstr ""
+
+# @ mh-magazine
+#: content-author-box.php:69
+msgid "Google+"
+msgstr ""
+
+# @ mh-magazine
+#: content-author-box.php:73
+#, php-format
+msgid "Follow %s on YouTube"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:39 content-author-box.php:75
+msgid "YouTube"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:374 includes/mh-customizer.php:97
+msgid "Related Articles"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:164
+#, php-format
+msgctxt "post author"
+msgid "Articles by %s"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:176 includes/mh-customizer.php:76
+#: template-sitemap.php:37
+msgid "Archives"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:184
+#, php-format
+msgid "Search Results for %s"
+msgstr "Rezultati pretrage za %s"
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:470
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:476
+msgid "Your comment is awaiting moderation."
+msgstr "Vaš komentar će uskoro biti objavljen ukoliko ne sadrži neprikladan ili uvrjedljiv sadržaj"
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:500
+msgid "Name "
+msgstr "Ime "
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:501
+msgid "Email "
+msgstr "E-mail "
+
+# @ mh-magazine
+#: includes/mh-customizer.php:16
+msgid "Advertising"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:17 includes/mh-customizer.php:109
+msgid "Custom CSS"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:18
+msgid "Tracking Code"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:70
+msgid "Custom Excerpt More-Text"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:71
+msgid "Copyright Text"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:76 includes/mh-customizer.php:77
+#: includes/mh-customizer.php:153 includes/mh-customizer.php:154
+#: includes/mh-customizer.php:155 includes/mh-customizer.php:156
+#: includes/widgets/mh-carousel.php:155 includes/widgets/mh-carousel.php:156
+#: includes/widgets/mh-custom-slider.php:266
+#: includes/widgets/mh-custom-slider.php:267
+#: includes/widgets/mh-custom-slider.php:268
+#: includes/widgets/mh-custom-slider.php:269
+#: includes/widgets/mh-custom-slider.php:270 includes/widgets/mh-slider.php:195
+#: includes/widgets/mh-slider.php:196 includes/widgets/mh-slider.php:197
+#: includes/widgets/mh-slider.php:198 includes/widgets/mh-slider.php:199
+#, php-format
+msgctxt "options panel"
+msgid "Layout %d"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:95
+msgid "Author Box"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:78 includes/mh-customizer.php:80
+#: includes/mh-customizer.php:81 includes/mh-customizer.php:82
+#: includes/mh-customizer.php:83 includes/mh-customizer.php:91
+#: includes/mh-customizer.php:92 includes/mh-customizer.php:93
+#: includes/mh-customizer.php:94 includes/mh-customizer.php:95
+#: includes/mh-customizer.php:96 includes/mh-customizer.php:97
+#: includes/mh-customizer.php:98 includes/mh-customizer.php:100
+#: includes/mh-customizer.php:101 includes/mh-customizer.php:102
+#: includes/mh-customizer.php:103 includes/mh-customizer.php:143
+#: includes/mh-google-webfonts.php:106
+msgid "Disable"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:96
+msgid "Author Box Contact"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:78 includes/mh-customizer.php:91
+#: includes/mh-customizer.php:92 includes/mh-customizer.php:93
+#: includes/mh-customizer.php:95 includes/mh-customizer.php:96
+#: includes/mh-customizer.php:97 includes/mh-customizer.php:98
+#: includes/mh-customizer.php:100 includes/mh-customizer.php:101
+#: includes/mh-customizer.php:102 includes/mh-customizer.php:103
+#: includes/mh-customizer.php:142 includes/mh-google-webfonts.php:106
+msgid "Enable"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:74 includes/mh-customizer.php:140
+msgid "One Sidebar"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:74 includes/mh-customizer.php:141
+msgid "Two Sidebars"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:74
+msgid "No Sidebars"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:75
+msgid "Position of default Sidebar"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:75 includes/mh-customizer.php:144
+msgid "Left"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:75 includes/mh-customizer.php:145
+msgid "Right"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:105
+msgid "Change default Font Size (px)"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:106
+msgid "Google Webfonts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:107
+msgid "Google Webfonts Characters"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:12
+msgid "Latin"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:13
+msgid "Latin Extended"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:9
+msgid "Greek"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:10
+msgid "Greek Extended"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:7
+msgid "Cyrillic"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:8
+msgid "Cyrillic Extended"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:108
+msgid "Google Webfont for Headings"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:109
+msgid "Google Webfont for Body Text"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:110
+msgid "Imported Google Font Styles"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:84
+msgid "Ticker Title"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:85
+msgid "Limit Post Number"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:86
+msgid "Custom Categories (use ID - e.g. 3,5,9):"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:87
+msgid "Custom Tags (use slug - e.g. lifestyle):"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:88
+msgid "Skip Posts (Offset):"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:89 includes/widgets/mh-carousel.php:161
+#: includes/widgets/mh-custom-posts.php:266 includes/widgets/mh-nip.php:155
+#: includes/widgets/mh-posts-digest.php:270
+#: includes/widgets/mh-posts-horizontal.php:194
+#: includes/widgets/mh-slider.php:212
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:91
+msgid "Breadcrumb Navigation"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:92
+msgid "Featured Image on Posts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:93
+msgid "Link Featured Image to Attachment"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:98
+msgid "Post/Attachment Navigation"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:94
+msgid "Social Buttons on Posts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:94
+msgid "Top and bottom"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:94
+msgid "Top of posts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:94
+msgid "Bottom of posts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:105
+msgid "Ad Code for Content Ad on Posts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:106
+msgid "Ad Code for Ads on Archives"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:107
+msgid "Display Ad every x Posts on Archives:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:110
+msgid "Tracking Code (e.g. Google Analytics)"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-colors.php:24
+msgid "Background Header"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-colors.php:25
+msgid "Background Inner"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-colors.php:29
+msgid "Text: General"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-colors.php:33
+msgid "Text: Post Meta"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:112
+msgid "Scale Background Image to Full Size"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:157
+msgid "Top of Posts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:158
+msgid "Bottom of Posts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-author-bio.php:51 includes/widgets/mh-authors.php:102
+#: includes/widgets/mh-carousel.php:114
+#: includes/widgets/mh-category-columns.php:155
+#: includes/widgets/mh-custom-pages.php:116
+#: includes/widgets/mh-custom-posts.php:197
+#: includes/widgets/mh-custom-slider.php:159
+#: includes/widgets/mh-custom-slider.php:180
+#: includes/widgets/mh-custom-slider.php:201
+#: includes/widgets/mh-custom-slider.php:222
+#: includes/widgets/mh-custom-slider.php:243
+#: includes/widgets/mh-facebook-page.php:50 includes/widgets/mh-nip.php:115
+#: includes/widgets/mh-posts-digest.php:209
+#: includes/widgets/mh-posts-focus.php:199
+#: includes/widgets/mh-posts-grid.php:131
+#: includes/widgets/mh-posts-horizontal.php:150
+#: includes/widgets/mh-posts-large.php:121
+#: includes/widgets/mh-posts-lineup.php:178
+#: includes/widgets/mh-posts-list.php:121
+#: includes/widgets/mh-posts-stacked.php:188
+#: includes/widgets/mh-recent-comments.php:69 includes/widgets/mh-social.php:41
+#: includes/widgets/mh-spotlight.php:144 includes/widgets/mh-tabbed.php:106
+#: includes/widgets/mh-youtube.php:57
+msgid "Title:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:11
+msgid "MH Authors widget to display a list of authors including the number of published posts."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:46 includes/widgets/mh-authors.php:52
+#, php-format
+msgid "Articles by %s"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:56
+#, php-format
+msgctxt "author post count"
+msgid "published %d articles"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:62
+msgid "No authors found"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:106
+msgid "Limit Author Number:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:110
+msgid "Skip Authors (Offset):"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:114
+msgid "User Role:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:116
+msgid "All Users"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:117
+msgid "Administrator"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:118
+msgid "Editor"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:119
+msgid "Author"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:120
+msgid "Contributor"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:121
+msgid "Subscriber"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:125
+msgid "Order Authors by:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:127
+msgid "Number of Posts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:128
+msgid "User Name"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:132
+msgid "Order:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:134
+msgid "Ascending"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:135
+msgid "Descending"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:139
+#: includes/widgets/mh-recent-comments.php:81
+msgid "Avatar Size in px:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:145
+#: includes/widgets/mh-recent-comments.php:87
+msgid "No Avatars"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-carousel.php:118
+#: includes/widgets/mh-custom-posts.php:205 includes/widgets/mh-nip.php:119
+#: includes/widgets/mh-posts-digest.php:217
+#: includes/widgets/mh-posts-focus.php:207
+#: includes/widgets/mh-posts-grid.php:139
+#: includes/widgets/mh-posts-horizontal.php:158
+#: includes/widgets/mh-posts-large.php:129
+#: includes/widgets/mh-posts-lineup.php:186
+#: includes/widgets/mh-posts-list.php:129
+#: includes/widgets/mh-posts-stacked.php:196 includes/widgets/mh-slider.php:151
+#: includes/widgets/mh-spotlight.php:148
+msgid "Select a Category:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-carousel.php:120
+#: includes/widgets/mh-custom-posts.php:207 includes/widgets/mh-nip.php:121
+#: includes/widgets/mh-posts-digest.php:219
+#: includes/widgets/mh-posts-focus.php:209
+#: includes/widgets/mh-posts-grid.php:141
+#: includes/widgets/mh-posts-horizontal.php:160
+#: includes/widgets/mh-posts-large.php:131
+#: includes/widgets/mh-posts-lineup.php:188
+#: includes/widgets/mh-posts-list.php:131
+#: includes/widgets/mh-posts-stacked.php:198 includes/widgets/mh-slider.php:153
+#: includes/widgets/mh-spotlight.php:150
+msgid "All"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-carousel.php:129
+#: includes/widgets/mh-category-columns.php:163
+#: includes/widgets/mh-custom-posts.php:216 includes/widgets/mh-nip.php:130
+#: includes/widgets/mh-posts-digest.php:228
+#: includes/widgets/mh-posts-focus.php:218
+#: includes/widgets/mh-posts-grid.php:150
+#: includes/widgets/mh-posts-horizontal.php:169
+#: includes/widgets/mh-posts-large.php:140
+#: includes/widgets/mh-posts-lineup.php:197
+#: includes/widgets/mh-posts-list.php:140
+#: includes/widgets/mh-posts-stacked.php:207 includes/widgets/mh-slider.php:162
+#: includes/widgets/mh-spotlight.php:159
+msgid "Multiple Categories Filter by ID:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-carousel.php:133
+#: includes/widgets/mh-custom-posts.php:220 includes/widgets/mh-nip.php:134
+#: includes/widgets/mh-posts-digest.php:232
+#: includes/widgets/mh-posts-focus.php:222
+#: includes/widgets/mh-posts-grid.php:154
+#: includes/widgets/mh-posts-horizontal.php:173
+#: includes/widgets/mh-posts-large.php:144
+#: includes/widgets/mh-posts-lineup.php:201
+#: includes/widgets/mh-posts-list.php:144
+#: includes/widgets/mh-posts-stacked.php:211 includes/widgets/mh-slider.php:166
+#: includes/widgets/mh-spotlight.php:163
+msgid "Filter Posts by Tags (e.g. lifestyle):"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-carousel.php:145
+#: includes/widgets/mh-category-columns.php:184
+#: includes/widgets/mh-custom-posts.php:232 includes/widgets/mh-nip.php:146
+#: includes/widgets/mh-posts-digest.php:244
+#: includes/widgets/mh-posts-focus.php:230
+#: includes/widgets/mh-posts-grid.php:166
+#: includes/widgets/mh-posts-horizontal.php:185
+#: includes/widgets/mh-posts-large.php:156
+#: includes/widgets/mh-posts-lineup.php:209
+#: includes/widgets/mh-posts-list.php:156
+#: includes/widgets/mh-posts-stacked.php:219 includes/widgets/mh-slider.php:178
+#: includes/widgets/mh-spotlight.php:171
+msgid "Post Order:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-carousel.php:147
+#: includes/widgets/mh-category-columns.php:186
+#: includes/widgets/mh-custom-posts.php:234 includes/widgets/mh-nip.php:148
+#: includes/widgets/mh-posts-digest.php:246
+#: includes/widgets/mh-posts-focus.php:232
+#: includes/widgets/mh-posts-grid.php:168
+#: includes/widgets/mh-posts-horizontal.php:187
+#: includes/widgets/mh-posts-large.php:158
+#: includes/widgets/mh-posts-lineup.php:211
+#: includes/widgets/mh-posts-list.php:158
+#: includes/widgets/mh-posts-stacked.php:221 includes/widgets/mh-slider.php:180
+#: includes/widgets/mh-spotlight.php:173
+msgid "Latest Posts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-carousel.php:148
+#: includes/widgets/mh-category-columns.php:187
+#: includes/widgets/mh-custom-posts.php:235 includes/widgets/mh-nip.php:149
+#: includes/widgets/mh-posts-digest.php:247
+#: includes/widgets/mh-posts-focus.php:233
+#: includes/widgets/mh-posts-grid.php:169
+#: includes/widgets/mh-posts-horizontal.php:188
+#: includes/widgets/mh-posts-large.php:159
+#: includes/widgets/mh-posts-lineup.php:212
+#: includes/widgets/mh-posts-list.php:159
+#: includes/widgets/mh-posts-stacked.php:222 includes/widgets/mh-slider.php:181
+#: includes/widgets/mh-spotlight.php:174
+msgid "Random Posts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-carousel.php:149
+#: includes/widgets/mh-category-columns.php:188
+#: includes/widgets/mh-custom-posts.php:236 includes/widgets/mh-nip.php:150
+#: includes/widgets/mh-posts-digest.php:248
+#: includes/widgets/mh-posts-focus.php:234
+#: includes/widgets/mh-posts-grid.php:170
+#: includes/widgets/mh-posts-horizontal.php:189
+#: includes/widgets/mh-posts-large.php:160
+#: includes/widgets/mh-posts-lineup.php:213
+#: includes/widgets/mh-posts-list.php:160
+#: includes/widgets/mh-posts-stacked.php:223 includes/widgets/mh-slider.php:182
+#: includes/widgets/mh-spotlight.php:175
+msgid "Popular Posts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-carousel.php:153
+msgid "Carousel Layout:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-recent-comments.php:11
+msgid "MH Recent Comments widget to display your recent comments including user avatars."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-recent-comments.php:37
+#, php-format
+msgctxt "comment widget"
+msgid "%1$s on %2$s"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-recent-comments.php:66
+msgid "Recent Comments"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-recent-comments.php:73
+msgid "Limit Comment Number:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-recent-comments.php:77
+msgid "Skip Comments (Offset):"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:124
+msgid "Filter Pages by ID (comma separated):"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:128
+#: includes/widgets/mh-custom-posts.php:240
+#: includes/widgets/mh-posts-digest.php:252
+msgid "Display Excerpts:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:130
+msgid "Excerpt for first Page"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:131
+msgid "Excerpt for all Pages"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:132
+#: includes/widgets/mh-custom-posts.php:244
+#: includes/widgets/mh-posts-digest.php:257
+msgid "No Excerpts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:140
+#: includes/widgets/mh-custom-posts.php:252
+msgid "Thumbnails:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:142
+#: includes/widgets/mh-custom-posts.php:254
+msgid "Show all Thumbnails"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:143
+#: includes/widgets/mh-custom-posts.php:255
+msgid "Hide all Thumbnails"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:144
+#: includes/widgets/mh-custom-posts.php:256
+msgid "Hide only large Thumbnails"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:145
+#: includes/widgets/mh-custom-posts.php:257
+msgid "Hide only small Thumbnails"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-posts.php:242
+msgid "Excerpt for first Post"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-posts.php:243
+#: includes/widgets/mh-posts-digest.php:254
+msgid "Excerpt for all Posts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-category-columns.php:159
+#: includes/widgets/mh-custom-pages.php:120
+#: includes/widgets/mh-custom-posts.php:201
+#: includes/widgets/mh-posts-digest.php:213
+#: includes/widgets/mh-posts-focus.php:203
+#: includes/widgets/mh-posts-grid.php:135
+#: includes/widgets/mh-posts-horizontal.php:154
+#: includes/widgets/mh-posts-large.php:125
+#: includes/widgets/mh-posts-lineup.php:182
+#: includes/widgets/mh-posts-list.php:125
+#: includes/widgets/mh-posts-stacked.php:192 includes/widgets/mh-youtube.php:61
+msgid "Link Title to custom URL (optional):"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-slider.php:163
+#: includes/widgets/mh-custom-slider.php:184
+#: includes/widgets/mh-custom-slider.php:205
+#: includes/widgets/mh-custom-slider.php:226
+#: includes/widgets/mh-custom-slider.php:247
+msgid "Custom URL:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-slider.php:167
+#: includes/widgets/mh-custom-slider.php:188
+#: includes/widgets/mh-custom-slider.php:209
+#: includes/widgets/mh-custom-slider.php:230
+#: includes/widgets/mh-custom-slider.php:251
+msgid "Custom Image URL:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-slider.php:171
+#: includes/widgets/mh-custom-slider.php:192
+#: includes/widgets/mh-custom-slider.php:213
+#: includes/widgets/mh-custom-slider.php:234
+#: includes/widgets/mh-custom-slider.php:255
+msgid "Custom Excerpt:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-slider.php:176
+#: includes/widgets/mh-custom-slider.php:197
+#: includes/widgets/mh-custom-slider.php:218
+#: includes/widgets/mh-custom-slider.php:239
+#: includes/widgets/mh-custom-slider.php:260
+msgid "Open Links in new Window / Tab"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:54
+msgid "Facebook Page URL:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-lineup.php:229 includes/widgets/mh-slider.php:208
+#: includes/widgets/mh-spotlight.php:191
+msgid "Disable Excerpt"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:16
+#: includes/widgets/mh-facebook-page.php:47
+msgid "Follow on Facebook"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-social.php:38
+msgid "Stay connected"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-spotlight.php:85
+#, php-format
+msgctxt "post meta"
+msgid "by %1$s in %2$s"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-category-columns.php:192
+#: includes/widgets/mh-posts-lineup.php:217 includes/widgets/mh-slider.php:186
+#: includes/widgets/mh-spotlight.php:179
+msgid "Image size:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-spotlight.php:195
+msgid "Disable Post Meta"
+msgstr ""
+
+# @ mh-magazine
+#: template-sitemap.php:10
+msgid "Recent Articles"
+msgstr ""
+
+# @ mh-magazine
+#: template-sitemap.php:26
+msgid "Pages"
+msgstr ""
+
+# @ mh-magazine
+#: template-sitemap.php:47
+msgid "Categories"
+msgstr ""
+
+# @ mh-magazine
+#: template-sitemap.php:51
+msgid "No categories"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-colors.php:26 includes/mh-custom-colors.php:27
+#: includes/mh-custom-colors.php:28
+#, php-format
+msgctxt "options panel"
+msgid "Theme Color %d"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-colors.php:30 includes/mh-custom-colors.php:31
+#: includes/mh-custom-colors.php:32
+#, php-format
+msgctxt "options panel"
+msgid "Text: Colored Sections (Color %d)"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-colors.php:35
+msgid "Links: Hover Color"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:7
+msgid "Welcome to MH Magazine"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:7
+msgid "Theme Info"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:17
+#, php-format
+msgid "Welcome to %1s %2s"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:25
+msgid "Important Links:"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:27
+msgid "Theme Info Page"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:30 includes/mh-customizer.php:240
+msgid "Support Center"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:46
+#, php-format
+msgid "Getting Started with %s"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:52 includes/mh-customizer.php:238
+msgid "Theme Documentation"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:59
+msgid "Visit Documentation"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:65 includes/mh-customizer.php:7
+msgid "Theme Options"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:68
+#, php-format
+msgid "%s WordPress theme supports the Theme Customizer for all theme settings. Click \"Customize Theme\" to open the Customizer now."
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:72
+msgid "Customize Theme"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:78
+msgid "Upgrade to MH Themes Bundle"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:85
+msgid "Login to MH Themes account"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:91
+msgid "Theme Screenshot"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:97
+#, php-format
+msgid "%1s WordPress theme is proudly brought to you by %2s."
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:111
+#, php-format
+msgid "Thanks for using %1s by MH Themes. To learn more about this theme, please %1s."
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:111
+msgid "click here"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:37 includes/mh-customizer.php:80
+#: includes/mh-customizer.php:82 includes/mh-customizer.php:150
+#: includes/mh-customizer.php:195
+msgid "News Ticker"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:8
+msgctxt "widget name"
+msgid "MH Facebook Page"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:58
+msgid "Width (min. 280px):"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:62
+msgid "Height (min. 130px):"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:67
+msgid "Hide cover photo"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:71
+msgid "Show profile photos"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:75
+msgid "Show posts from FB page"
+msgstr ""
+
+# @ mh-magazine
+#: content-social.php:2
+msgid "Share on Facebook"
+msgstr ""
+
+# @ mh-magazine
+#: content-social.php:5
+msgid "Tweet This Post"
+msgstr ""
+
+# @ mh-magazine
+#: content-social.php:8
+msgid "Pin This Post"
+msgstr ""
+
+# @ mh-magazine
+#: content-social.php:11
+msgid "Share on Google+"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:11
+msgid "General"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:92
+msgid "Typography"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-carousel.php:11
+msgid "MH Carousel widget for use on homepage template."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-recent-comments.php:8
+msgctxt "widget name"
+msgid "MH Recent Comments"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:8
+msgctxt "widget name"
+msgid "MH Custom Pages"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:11
+msgid "MH Custom Pages Widget to display pages based on page IDs."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-posts.php:8
+msgctxt "widget name"
+msgid "MH Custom Posts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-nip.php:8
+msgctxt "widget name"
+msgid "MH News in Pictures"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-slider.php:11
+msgid "MH Slider widget for use on homepage template."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-social.php:11
+msgid "MH Social widget to display linked social media icons in sidebar or footer."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-spotlight.php:8
+msgctxt "widget name"
+msgid "MH Spotlight"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-spotlight.php:11
+msgid "MH Spotlight / Featured widget for use on homepage template."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-youtube.php:8
+msgctxt "widget name"
+msgid "MH YouTube Video"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-youtube.php:11
+msgid "MH YouTube Video widget to display a YouTube Video."
+msgstr ""
+
+# @ mh-magazine
+#: comments.php:44
+msgid "Be the first to comment"
+msgstr ""
+
+# @ mh-magazine
+#: comments.php:49
+msgid "Leave a Reply"
+msgstr ""
+
+# @ mh-magazine
+#: content-author-box.php:27
+#, php-format
+msgid "%s Article"
+msgid_plural "%s Articles"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ mh-magazine
+#: functions.php:79
+msgid "Social Icons in Header"
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:83
+msgid "MH Social Widget"
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:154
+msgid "Widget area (sidebar left/right) on single posts, pages and archives."
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:156
+msgid "Second sidebar on single posts, pages and archives."
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:158 functions.php:159
+#, php-format
+msgctxt "widget area name"
+msgid "Header %d - Advertisement"
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:158
+msgid "Advertisement position located above the header, suitable for a single text widget."
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:159
+msgid "Widget area on top of the site."
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:160 functions.php:166 functions.php:170
+#, php-format
+msgctxt "widget area name"
+msgid "Home %d - Full Width"
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:160 functions.php:161 functions.php:162 functions.php:163
+#: functions.php:164 functions.php:165 functions.php:166 functions.php:167
+#: functions.php:168 functions.php:169 functions.php:170
+msgid "Widget area on homepage."
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:161 functions.php:164
+#, php-format
+msgctxt "widget area name"
+msgid "Home %d - 2/3 Width"
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:162 functions.php:163 functions.php:165 functions.php:167
+#: functions.php:168 functions.php:169 functions.php:172
+#, php-format
+msgctxt "widget area name"
+msgid "Home %d - 1/3 Width"
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:172
+msgid "Sidebar on homepage."
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:174 functions.php:175
+#, php-format
+msgctxt "widget area name"
+msgid "Posts %d - Advertisement"
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:174
+msgid "Widget area above single post content."
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:175
+msgid "Widget area below single post content."
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:176 functions.php:177
+#, php-format
+msgctxt "widget area name"
+msgid "Pages %d - Advertisement"
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:176
+msgid "Widget area above single page content."
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:177
+msgid "Widget area below single page content."
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:178 functions.php:179 functions.php:180 functions.php:181
+#, php-format
+msgctxt "widget area name"
+msgid "Footer %d - 1/4 Width"
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:178 functions.php:179 functions.php:180 functions.php:181
+msgid "Widget area in footer."
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:182
+msgctxt "widget area name"
+msgid "Contact Sidebar"
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:182
+msgid "Widget area (sidebar) on contact page template."
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:184
+#, php-format
+msgctxt "widget area name"
+msgid "Contact Sidebar %d"
+msgstr ""
+
+# @ mh-magazine
+#: functions.php:184
+msgid "2nd widget area (sidebar) on contact page template."
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-colors.php:34
+msgid "Links: Content on Posts/Pages"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:333 includes/mh-custom-functions.php:338
+msgid "Back to article"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:335
+msgid "Previous image"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:341
+msgid "Previous article"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:348
+msgid "Next image"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:350
+msgid "Next article"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:486
+msgid "Edit"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:6
+msgid "Arabic"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:11
+msgid "Hebrew"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:14
+msgid "Vietnamese"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:69
+msgid "Custom Excerpt Length in Words"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:73
+msgid "Site Layout"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:73 includes/mh-customizer.php:146
+msgid "Boxed"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:73 includes/mh-customizer.php:147
+msgid "Wide"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:74
+msgid "Number of Sidebars"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:77
+msgid "Widget Titles"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:78
+msgid "Back to Top Button"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:100
+msgid "Post Meta: Date"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:101
+msgid "Post Meta: Author"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:102
+msgid "Post Meta: Categories"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:103
+msgid "Post Meta: Comment Count"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-author-bio.php:8
+msgctxt "widget name"
+msgid "MH Author Bio"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-author-bio.php:11
+msgid "MH Author Bio widget to display author avatar and biographical info."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-author-bio.php:48
+msgid "About me"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-author-bio.php:55
+msgid "Select User:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:8
+msgctxt "widget name"
+msgid "MH Authors"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-carousel.php:8
+msgctxt "widget name"
+msgid "MH Carousel"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-carousel.php:126
+#: includes/widgets/mh-custom-posts.php:213 includes/widgets/mh-nip.php:127
+#: includes/widgets/mh-posts-digest.php:225
+#: includes/widgets/mh-posts-focus.php:215
+#: includes/widgets/mh-posts-grid.php:147
+#: includes/widgets/mh-posts-horizontal.php:166
+#: includes/widgets/mh-posts-large.php:137
+#: includes/widgets/mh-posts-lineup.php:194
+#: includes/widgets/mh-posts-list.php:137
+#: includes/widgets/mh-posts-stacked.php:204 includes/widgets/mh-slider.php:159
+#: includes/widgets/mh-spotlight.php:156
+msgid "Select a category to display posts from."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-carousel.php:137
+#: includes/widgets/mh-category-columns.php:176
+#: includes/widgets/mh-custom-posts.php:224 includes/widgets/mh-nip.php:138
+#: includes/widgets/mh-posts-digest.php:236
+#: includes/widgets/mh-posts-grid.php:158
+#: includes/widgets/mh-posts-horizontal.php:177
+#: includes/widgets/mh-posts-large.php:148
+#: includes/widgets/mh-posts-list.php:148 includes/widgets/mh-slider.php:170
+#: includes/widgets/mh-tabbed.php:110
+msgid "Post Count (max. 50):"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-carousel.php:141
+#: includes/widgets/mh-category-columns.php:180
+#: includes/widgets/mh-custom-posts.php:228 includes/widgets/mh-nip.php:142
+#: includes/widgets/mh-posts-digest.php:240
+#: includes/widgets/mh-posts-focus.php:226
+#: includes/widgets/mh-posts-grid.php:162
+#: includes/widgets/mh-posts-horizontal.php:181
+#: includes/widgets/mh-posts-large.php:152
+#: includes/widgets/mh-posts-lineup.php:205
+#: includes/widgets/mh-posts-list.php:152
+#: includes/widgets/mh-posts-stacked.php:215 includes/widgets/mh-slider.php:174
+#: includes/widgets/mh-spotlight.php:167
+msgid "Skip Posts (max. 50):"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:136
+#: includes/widgets/mh-custom-posts.php:248
+#: includes/widgets/mh-posts-digest.php:261
+#: includes/widgets/mh-posts-lineup.php:224 includes/widgets/mh-slider.php:203
+#: includes/widgets/mh-spotlight.php:186
+msgid "Custom Excerpt Length in Words:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-posts.php:11
+msgid "MH Custom Posts widget to display posts based on categories or tags."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-slider.php:8
+msgctxt "widget name"
+msgid "MH Custom Slider"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-slider.php:11
+msgid "MH Custom Slider widget to display custom content for use on homepage template."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-slider.php:172
+#: includes/widgets/mh-custom-slider.php:193
+#: includes/widgets/mh-custom-slider.php:214
+#: includes/widgets/mh-custom-slider.php:235
+#: includes/widgets/mh-custom-slider.php:256
+msgid "Enter Custom Excerpt"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-slider.php:262
+msgid "Slider Settings:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-slider.php:264 includes/widgets/mh-slider.php:193
+msgid "Slider Layout:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:11
+msgid "MH Facebook Page widget to display your Facebook page on your website."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-nip.php:11
+msgid "MH News in Pictures widget to display a gallery of thumbnails linked to the post content."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-grid.php:8
+msgctxt "widget name"
+msgid "MH Posts Grid"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-grid.php:11
+msgid "MH Posts Grid widget to display a grid of posts including thumbnail images."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-large.php:8
+msgctxt "widget name"
+msgid "MH Posts Large"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-large.php:11
+msgid "MH Posts Large widget to display posts (large-sized) including thumbnail images."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-list.php:8
+msgctxt "widget name"
+msgid "MH Posts List"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-list.php:11
+msgid "MH Posts List widget to display a list of posts with thumbnails."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-slider.php:8
+msgctxt "widget name"
+msgid "MH Slider"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-category-columns.php:194
+#: includes/widgets/mh-posts-lineup.php:219 includes/widgets/mh-slider.php:188
+#: includes/widgets/mh-spotlight.php:181
+msgid "Normal"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-category-columns.php:195
+#: includes/widgets/mh-posts-lineup.php:220 includes/widgets/mh-slider.php:189
+#: includes/widgets/mh-spotlight.php:182
+msgid "Large"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-social.php:8
+msgctxt "widget name"
+msgid "MH Social"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-social.php:28
+msgid "Create a custom menu under \"Appearance => Menus\" in your WordPress dashboard to display social icons in this widget."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-spotlight.php:141
+msgid "In the Spotlight"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-tabbed.php:8
+msgctxt "widget name"
+msgid "MH Tabbed"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-tabbed.php:11
+msgid "MH Tabbed widget showing your latest posts, tags and comments."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-tabbed.php:76
+msgid "No comments found"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-youtube.php:65
+msgid "Video ID:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-tabbed.php:114
+msgid "Tag Count:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-tabbed.php:118
+msgid "Comment Count:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-youtube.php:71
+msgid "Enable Autoplay"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-youtube.php:75
+msgid "Display Video Title / Information"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-youtube.php:79
+msgid "Display Player Controls"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-youtube.php:83
+msgid "Recommend Related Videos"
+msgstr ""
+
+# @ mh-magazine
+#: content-carousel.php:7 content-grid.php:8 content-large.php:8
+#: content-list.php:8 content-loop-layout1.php:8 content-loop-layout2.php:8
+#: includes/widgets/mh-category-columns.php:68
+#: includes/widgets/mh-category-columns.php:70
+#: includes/widgets/mh-custom-pages.php:42
+#: includes/widgets/mh-custom-pages.php:66
+#: includes/widgets/mh-custom-posts.php:82
+#: includes/widgets/mh-custom-posts.php:115
+#: includes/widgets/mh-posts-digest.php:85
+#: includes/widgets/mh-posts-focus.php:85
+#: includes/widgets/mh-posts-focus.php:120
+#: includes/widgets/mh-posts-horizontal.php:83
+#: includes/widgets/mh-posts-lineup.php:82
+#: includes/widgets/mh-posts-lineup.php:84
+#: includes/widgets/mh-posts-stacked.php:80
+#: includes/widgets/mh-posts-stacked.php:117 includes/widgets/mh-slider.php:69
+#: includes/widgets/mh-slider.php:71 includes/widgets/mh-spotlight.php:65
+#: includes/widgets/mh-spotlight.php:67
+msgid "No Picture"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-stacked.php:8
+msgctxt "widget name"
+msgid "MH Posts Stacked"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-stacked.php:11
+msgid "MH Posts Stacked widget to display 5 stacked posts nicely including thumbnail, title and meta data."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-category-columns.php:200
+#: includes/widgets/mh-custom-posts.php:262
+#: includes/widgets/mh-posts-digest.php:266
+#: includes/widgets/mh-posts-focus.php:239
+#: includes/widgets/mh-posts-grid.php:175
+#: includes/widgets/mh-posts-large.php:165
+#: includes/widgets/mh-posts-list.php:165
+#: includes/widgets/mh-posts-stacked.php:228
+msgid "Display Category"
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:55
+#, php-format
+msgid "Need support with the configuration of %s? Please have a look at the instructions in the theme documentation, check the tutorials in the support center and feel free to contact our support staff through your MH Themes account in case you need further assistance."
+msgstr ""
+
+# @ mh-magazine
+#: admin/admin.php:81
+msgid "Do you want to have access to all Premium WordPress Themes by MH Themes including support and lifetime updates? You can upgrade to the MH Themes Bundle through your MH Themes account right away."
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:12
+msgid "Layout - General"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:13
+msgid "Layout - Header"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:14
+msgid "Layout - Posts/Pages"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:15
+msgid "Layout - Post Meta"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:80
+msgid "Header Bar Content (Top - Left)"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:80 includes/mh-customizer.php:82
+#: includes/mh-customizer.php:148
+msgid "Navigation"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:80 includes/mh-customizer.php:81
+#: includes/mh-customizer.php:82 includes/mh-customizer.php:83
+#: includes/mh-customizer.php:149
+msgid "Date"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:81
+msgid "Header Bar Content (Top - Right)"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:81 includes/mh-customizer.php:83
+#: includes/mh-customizer.php:151
+msgid "Social Icons"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:82
+msgid "Header Bar Content (Bottom - Left)"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:83
+msgid "Header Bar Content (Bottom - Right)"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-customizer.php:236
+msgid "Helpful Links:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-category-columns.php:8
+msgctxt "widget name"
+msgid "MH Category Columns"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-category-columns.php:11
+msgid "MH Category Columns widget to display columns with posts from specific categories."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-category-columns.php:167
+msgid "Number of Columns:"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-digest.php:8
+msgctxt "widget name"
+msgid "MH Posts Digest"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-digest.php:11
+msgid "MH Posts Digest widget to display 2 large featured posts with thumbnails and an overview of posts with post titles and excerpts."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-digest.php:255
+msgid "Excerpt for large Posts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-digest.php:256
+msgid "Excerpt for small Posts"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-focus.php:8
+msgctxt "widget name"
+msgid "MH Posts Focus"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-focus.php:11
+msgid "MH Posts Focus widget to display 5 posts with focus on large post in the middle (if placed in full-width widget area)."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-horizontal.php:8
+msgctxt "widget name"
+msgid "MH Posts Horizontal"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-horizontal.php:11
+msgid "MH Posts Horizontal widget to display a horizontal grid of posts including post titles and small thumbnails."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-lineup.php:8
+msgctxt "widget name"
+msgid "MH Posts Lineup"
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-lineup.php:11
+msgid "MH Posts Lineup widget to display one large featured post and a list of additional posts."
+msgstr ""
+
+# @ mh-magazine
+#: includes/widgets/mh-youtube.php:67
+msgid "Enter the YouTube video ID - also known as the watch code (e.g. AvOTBFM_3RQ)"
+msgstr ""
