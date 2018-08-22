@@ -13,20 +13,18 @@
 		</div>
 	</div>
 	<div class="mh-posts-large-content">
-		<div>
-			<header class="mh-posts-large-header">
-				<h3 class="mh-posts-large-title">
-					<a href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>" rel="bookmark">
-						<?php the_title(); ?>
-					</a>
-				</h3>
-				<div class="mh-meta mh-posts-large-meta">
-					<?php mh_magazine_loop_meta(); ?>
-				</div>
-			</header>
-			<div class="mh-posts-large-excerpt clearfix">
-				<?php the_excerpt(); ?>
+		<header class="mh-posts-large-header">
+			<h3 class="mh-posts-large-title">
+				<a href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>" rel="bookmark">
+					<?php the_title(); ?>
+				</a>
+			</h3>
+			<div class="mh-meta mh-posts-large-meta">
+				<?php mh_magazine_loop_meta(); ?>
 			</div>
+		</header>
+		<div class="mh-posts-large-excerpt clearfix">
+			<?php the_excerpt(); ?>
 		</div>
 	</div>
 </article>
