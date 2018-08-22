@@ -101,7 +101,7 @@ if (!function_exists('mh_magazine_custom_header')) {
 		$header_image = get_header_image();
 		$header_title = get_bloginfo('name');
 		$header_tagline = get_bloginfo('description');
-		is_active_sidebar('mh-header-2') ? $header_cols = 'mh-col-1-3' : $header_cols = 'mh-col-1-p';
+		is_active_sidebar('mh-header-2') ? $header_cols = 'mh-col-1-3' : $header_cols = '';
 		echo '<div class="' . $header_cols . ' mh-custom-header">' . "\n";
 			echo '<a href="' . esc_url(home_url('/')) . '" title="' . esc_attr($header_title) . '" rel="home">' . "\n";
 				echo '<div class="mh-site-logo" role="banner">' . "\n";
