@@ -8,9 +8,9 @@
 				echo '<img class="mh-image-placeholder" src="' . get_template_directory_uri() . '/images/placeholder-content.png' . '" alt="' . esc_html__('No Picture', 'mh-magazine') . '" />';
 			} ?>
 		</a>
-		<div class="mh-image-caption mh-posts-large-caption">
-			<?php $category = get_the_category(); echo esc_attr($category[0]->cat_name); ?>
-		</div>
+		<!-- <div class="mh-image-caption mh-posts-large-caption">
+			// < ?php $category = get_the_category(); echo esc_attr($category[0]->cat_name); ?>
+		</div> -->
 	</div>
 	<div class="mh-posts-large-content">
 		<header class="mh-posts-large-header">
@@ -23,6 +23,15 @@
 				<?php mh_magazine_loop_meta(); ?>
 			</div>
 		</header>
+		<div class="wishbone_postcat">
+			<div class="wishbone_postcatdecor">
+				<div class="wishbone_postcatdecor_inner">
+					<a href="<?php the_permalink(); ?>" rel="bookmark" title="<?php the_title_attribute(); ?>">
+						<?php $category = get_the_category(); echo esc_attr($category[0]->cat_name); ?>
+					</a>				
+				</div> <!-- end .wishbone_postcat -->
+			</div> <!-- end .wishbone_postcat -->
+		</div>		
 		<div class="mh-posts-large-excerpt clearfix">
 			<?php the_excerpt(); ?>
 		</div>
