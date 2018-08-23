@@ -569,6 +569,7 @@ if (!function_exists('mh_magazine_custom_tag_cloud')) {
 		$args['smallest'] = 12;
 		$args['largest'] = 12;
 		$args['unit'] = 'px';		
+		$args['format'] = 'array';
 		return $args;
 	}
 }

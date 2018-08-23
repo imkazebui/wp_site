@@ -26,6 +26,7 @@ function mh_magazine_register_widgets() {
 	register_widget('mh_magazine_youtube');
 	register_widget('mh_magazine_tabbed');
 	register_widget('mh_magazine_category_columns');
+	register_widget('Custom_Widget_Tag_Cloud');
 }
 add_action('widgets_init', 'mh_magazine_register_widgets');
 
@@ -54,5 +55,6 @@ require_once('widgets/mh-author-bio.php');
 require_once('widgets/mh-youtube.php');
 require_once('widgets/mh-tabbed.php');
 require_once('widgets/mh-category-columns.php');
+require_once('widgets/custom-tag.php');
 
 ?>
