@@ -19,9 +19,18 @@ class mh_magazine_author_bio extends WP_Widget {
 		echo $args['before_widget']; ?>
 			<div class="mh-author-bio-widget">
 				<?php if (!empty($instance['title'])) { ?>
-					<h4 class="mh-author-bio-title">
-						<?php echo esc_html(apply_filters('widget_title', $instance['title'])); ?>
-					</h4>
+					<div class="wishbone_postcat">
+						<div class="wishbone_postcatdecor">
+							<div class="wishbone_postcatdecor_inner">
+								<a rel="bookmark" title="<?php echo esc_html(apply_filters('widget_title', $instance['title'])); ?>">
+									<?php echo esc_html(apply_filters('widget_title', $instance['title'])); ?>
+								</a>
+							</div> <!-- end .wishbone_postcat -->
+						</div> <!-- end .wishbone_postcat -->
+					</div>					
+					<!-- <h4 class="mh-author-bio-title">
+						// < ?php echo esc_html(apply_filters('widget_title', $instance['title'])); ?>
+					</h4> -->
 				<?php } ?>
         		<div class="mh-author-bio-avatar mh-author-bio-image-frame">
         			<a href="<?php echo esc_url(get_author_posts_url($instance['user'])); ?>">
