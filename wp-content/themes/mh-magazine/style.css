@@ -3074,7 +3074,8 @@ textarea {
 }
 
 .mh-posts-large-item::before,
-.mh_magazine_author_bio > .mh-author-bio-widget::before {
+.mh_magazine_author_bio > .mh-author-bio-widget::before,
+.widget_tag_cloud::before {
   content: "";
   display: block;
   width: auto;
@@ -3808,7 +3809,7 @@ textarea {
   font-size: 0.875rem;
   color: #fff;
   margin-top: 25px;
-  text-align: center
+  text-align: center;
 }
 .mh-footer-widget .mh-author-bio-widget {
   border-bottom: 0;
@@ -3856,11 +3857,13 @@ textarea {
   border: 0;
 }
 
-.mh_magazine_author_bio > .mh-author-bio-widget {
+.mh_magazine_author_bio > .mh-author-bio-widget,
+.widget_tag_cloud {
   margin-right: 10px;
   margin-bottom: 10px;
   position: relative;
   border: 1px solid #e5e5e5;
+  overflow: unset;
 }
 
 /***** MH Social Widget *****/
