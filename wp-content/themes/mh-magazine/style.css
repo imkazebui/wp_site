@@ -1797,12 +1797,13 @@ a .pagelink {
 .mh-copyright-wrap {
   padding: 10px 25px;
   border-top: 3px solid rgba(255, 255, 255, 0.3);
-  background: #2a2a2a;
+  background: #e5e5e5 !important;
 }
 .mh-copyright {
   font-size: 12px;
   font-size: 0.75rem;
   color: #999;
+  text-align: center
 }
 .mh-copyright a,
 .mh-copyright a:hover {
@@ -2365,6 +2366,7 @@ textarea {
 }
 .mh-back-to-top .fa {
   font-size: 24px;
+  color: #808080
 }
 
 /***** Jetpack Infinite Scroll *****/
@@ -4564,6 +4566,7 @@ textarea {
   .mh-posts-horizontal-widget-more {
     padding-top: 0;
   }
+  .mh-posts-horizontal-title > a { word-spacing: 4px; }
   #mh-mobile .mh-posts-horizontal-title {
     font-size: 12px;
   }
