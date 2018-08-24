@@ -4288,6 +4288,8 @@ textarea {
   text-align: center
 }
 
+.post-content .juliet-post-excerpt-links { text-align: center}
+
 /***** Media Queries *****/
 
 @media screen and (max-width: 1475px) {
