@@ -24,7 +24,7 @@
 			<div class="wishbone_postcatdecor">
 				<div class="wishbone_postcatdecor_inner">
 					<a href="<?php the_permalink(); ?>" rel="bookmark" title="<?php the_title(); ?>	" target="_self">
-						Chưa được phân loại					</a>
+						<?php the_category();	?>				</a>
 				</div> <!-- end .wishbone_postcat -->
 			</div> <!-- end .wishbone_postcat -->
 		</div>
