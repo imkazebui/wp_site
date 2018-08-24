@@ -56,7 +56,11 @@ class mh_magazine_posts_horizontal extends WP_Widget {
 			if ($widget_posts->have_posts()) :
 				$counter = 1;
 				if (!empty($instance['title'])) {
-					echo $args['before_title'];
+					// echo $args['before_title'];
+					echo	'<div class="wishbone_postcat">
+									<div class="wishbone_postcatdecor">
+										<div class="wishbone_postcatdecor_inner">
+											<a rel="bookmark">';					
 						if (!empty($instance['link'])) {
 							echo '<a href="' . esc_url($instance['link']) . '" class="mh-widget-title-link">';
 						} elseif ($instance['category'] != 0) {
@@ -66,7 +70,11 @@ class mh_magazine_posts_horizontal extends WP_Widget {
 						if (!empty($instance['link']) || $instance['category'] != 0) {
 							echo '</a>';
 						}
-					echo $args['after_title'];
+					// echo $args['after_title'];
+          echo		'</a>
+        				</div> <!-- end .wishbone_postcat -->
+      				</div> <!-- end .wishbone_postcat -->
+    				</div>'; 					
 				}
 
 				while ($widget_posts->have_posts()) : $widget_posts->the_post();

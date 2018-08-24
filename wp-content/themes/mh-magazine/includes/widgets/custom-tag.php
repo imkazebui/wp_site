@@ -82,15 +82,15 @@ class Custom_Widget_Tag_Cloud extends WP_Widget {
 		echo $args['before_widget'];
 		if ( $title ) {
       // echo "<p>" . $title . "</p>";
-      echo 					'<div class="wishbone_postcat">
-      <div class="wishbone_postcatdecor">
-        <div class="wishbone_postcatdecor_inner">
-          <a rel="bookmark">'
-           . $title .
-          '</a>
-        </div> <!-- end .wishbone_postcat -->
-      </div> <!-- end .wishbone_postcat -->
-    </div>'; 
+      echo	'<div class="wishbone_postcat">
+      				<div class="wishbone_postcatdecor">
+        				<div class="wishbone_postcatdecor_inner">
+          				<a rel="bookmark">'
+           					. $title .
+          				'</a>
+        				</div> <!-- end .wishbone_postcat -->
+      				</div> <!-- end .wishbone_postcat -->
+    				</div>'; 
 		}
 
 		echo '<div class="tagcloud">';
