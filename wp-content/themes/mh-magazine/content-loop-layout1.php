@@ -24,7 +24,7 @@
 			<div class="wishbone_postcatdecor">
 				<div class="wishbone_postcatdecor_inner">
 					<a href="<?php the_permalink(); ?>" rel="bookmark" title="<?php the_title(); ?>	" target="_self">
-						<?php the_category();	?>				</a>
+						<?php echo get_the_category_list(', ', '')	?>				</a>
 				</div> <!-- end .wishbone_postcat -->
 			</div> <!-- end .wishbone_postcat -->
 		</div>
