@@ -1,7 +1,7 @@
 /*****
-Theme Name: MH Magazine
+Theme Name: I'm Wind
 Theme URI: http://www.mhthemes.com/themes/mh/magazine/
-Author: MH Themes
+Author: I'm Wind
 Author URI: http://www.mhthemes.com/
 Description: MH Magazine is a clean, modern and fully responsive premium magazine WordPress theme for blogs, online magazines, news websites and other editorial projects. The theme includes useful page templates, several custom widgets and advanced theme options including colorpickers with unlimited colors to create your own color scheme.
 Version: 3.3.0
@@ -4275,6 +4275,7 @@ textarea {
 
 .post-content {
   margin-right: 0px;
+  margin-bottom: 20px;
 }
 
 .post-content::before {
@@ -4284,6 +4285,7 @@ textarea {
 .post-content > .tlg-posts-large-content {
   margin: 10px 10px 0px;
   padding: 35px;
+  text-align: center
 }
 
 /***** Media Queries *****/
