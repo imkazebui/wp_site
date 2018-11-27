@@ -792,7 +792,8 @@ select {
 
 .mh-main-nav-wrap {
   /* background: #2a2a2a; float: right; margin-top: 37px;  */
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid tan;
+  /* background: #f7f7f7; */
 }
 #menu-menu {
   display: flex;
@@ -1803,7 +1804,7 @@ a .pagelink {
   font-size: 12px;
   font-size: 0.75rem;
   color: #999;
-  text-align: center
+  text-align: center;
 }
 .mh-copyright a,
 .mh-copyright a:hover {
@@ -2366,7 +2367,7 @@ textarea {
 }
 .mh-back-to-top .fa {
   font-size: 24px;
-  color: #808080
+  color: #808080;
 }
 
 /***** Jetpack Infinite Scroll *****/
@@ -3069,7 +3070,7 @@ textarea {
   /* margin-top: 20px;
   padding-bottom: 20px; */
   margin-bottom: 50px;
-  border: 1px solid #e5e5e5;
+  border: 1px solid tan;
   position: relative;
   margin-right: 10px;
   background: #efecea;
@@ -3083,7 +3084,7 @@ textarea {
   display: block;
   width: auto;
   height: auto;
-  border: 1px solid #e5e5e5;
+  border: 1px solid tan;
   position: absolute;
   top: 10px;
   left: 10px;
@@ -3101,10 +3102,10 @@ textarea {
   margin-bottom: 10px;
   width: 100%;
   padding-top: 56.25%;
-  border: 1px solid #e5e5e5
+  border: 1px solid #e5e5e5;
 }
 .mh-posts-large-thumb img {
-  width: 100%;
+  width: calc(100% - 1px);
   height: 100%;
   position: absolute;
   top: 0;
@@ -3141,7 +3142,7 @@ textarea {
   top: 0;
   bottom: 0;
   margin: auto 0;
-  background: #e5e5e5;
+  background: tan;
 }
 .wishbone_postcatdecor_inner {
   display: inline-block;
@@ -3150,7 +3151,7 @@ textarea {
   content: "";
   width: 10px;
   height: 10px;
-  border: 1px solid #2f2f2f;
+  border: 1px solid tan;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -3177,7 +3178,7 @@ textarea {
   content: "";
   width: 10px;
   height: 10px;
-  border: 1px solid #2f2f2f;
+  border: 1px solid tan;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -3197,7 +3198,7 @@ textarea {
   top: 0;
   bottom: 0;
   margin: auto 0;
-  background: #e5e5e5;
+  background: tan;
 }
 .juliet-post-footer {
   overflow: hidden;
@@ -3231,7 +3232,7 @@ textarea {
   overflow: hidden;
 }
 .juliet-post-excerpt-border {
-  border: 1px solid #e5e5e5;
+  border: 1px solid tan;
   line-height: 2.5;
   display: inline-block;
   position: relative;
@@ -3243,7 +3244,7 @@ textarea {
   content: "";
   width: 400px;
   top: 50%;
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid tan;
 }
 .juliet-post-excerpt-border:before {
   left: -400px;
@@ -3533,7 +3534,7 @@ textarea {
   width: 100%;
   /* margin: 25px 0 0; */
   padding: 25px 0;
-  border-bottom: 1px dotted #e5e5e5;
+  border-bottom: 1px dotted tan;
 }
 .mh-widget-col-1 .mh-posts-horizontal-item:first-child {
   /* margin: 0; */
@@ -3874,8 +3875,9 @@ textarea {
   margin-right: 10px;
   margin-bottom: 10px;
   position: relative;
-  border: 1px solid #e5e5e5;
+  border: 1px solid tan;
   overflow: unset;
+  background-color: white;
 }
 
 .widget_tag_cloud_custom,
@@ -4231,7 +4233,7 @@ textarea {
 }
 
 .custom-tag {
-  border: 1px solid #e5e5e5;
+  border: 1px solid tan;
   line-height: 2.5;
   padding: 5px 0px;
   margin-left: 10px;
@@ -4279,16 +4281,18 @@ textarea {
 }
 
 .post-content::before {
-  display: none
+  display: none;
 }
 
 .post-content > .tlg-posts-large-content {
   margin: 10px 10px 0px;
   padding: 35px;
-  text-align: center
+  text-align: center;
 }
 
-.post-content .juliet-post-excerpt-links { text-align: center}
+.post-content .juliet-post-excerpt-links {
+  text-align: center;
+}
 
 /***** Media Queries *****/
 
@@ -4550,7 +4554,9 @@ textarea {
   .mh-posts-horizontal-widget-more {
     padding-top: 0;
   }
-  .mh-posts-horizontal-title > a { word-spacing: 4px; }
+  .mh-posts-horizontal-title > a {
+    word-spacing: 4px;
+  }
   #mh-mobile .mh-posts-horizontal-title {
     font-size: 12px;
   }
